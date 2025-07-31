@@ -21,6 +21,9 @@ This script helps you automatically create a persistent VXLAN tunnel between an 
 
 ```bash
 curl -O https://raw.githubusercontent.com/soheilas/VXLan/refs/heads/main/IR.sh && chmod +x IR.sh && ./IR.sh
+```
 
 ### 🟢 Run this on the **Kharej** server:
+```bash
 curl -O https://raw.githubusercontent.com/soheilas/VXLan/refs/heads/main/KH.sh && chmod +x KH.sh && ./KH.sh
+```
