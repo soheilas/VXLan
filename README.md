@@ -1,6 +1,6 @@
-# VXLAN Tunnel Setup 🇮🇷 ↔️ 🌍
+# VXLAN Tunnel Setup 
 
-This script helps you automatically create a persistent VXLAN tunnel between an **IRAN** server and a **foreign** (KHAREJ) server, using both **IPv4** and **IPv6** local addresses.
+This script helps you automatically create a persistent VXLAN tunnel between an **IRAN** Server and a **KHAREJ** Server, using both **IPv4** and **IPv6** local addresses.
 
 ---
 
